@@ -1,4 +1,4 @@
-**Submission Guidelines**
+#**Submission Guidelines**
 
 We’re almost at the end of the M# Hackathon! Here is everything you need to know about submissions.
 Submission date
