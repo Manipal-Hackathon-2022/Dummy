@@ -2,7 +2,7 @@
 
 We’re almost at the end of the M# Hackathon! Here is everything you need to know about submissions.
 Submission date
-By 4:00 PM IST  Saturday, 15th October 2022 What do you need to submit 
+By 1:30 PM IST  Saturday, 15th October 2022 What do you need to submit 
 by creating final commits in the GitHub repository.
 
 * Team Details
