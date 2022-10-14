@@ -16,10 +16,9 @@ We’re almost at the end of the **M# Hackathon!** Here is everything you need t
 
 ## Submission Formats
 
--   Online link to a demo
--   Video Demo
+-   Online link to a demonstation
 -   Codebase
--   Presentation
+-   Practical Demonstration
 -   Project Report (Use Google Docs Templates)
 
 ## Judgement
@@ -37,7 +36,11 @@ We’re almost at the end of the **M# Hackathon!** Here is everything you need t
 ## Project Reports
 
 - It must contain explanation of dependencies, applications, and features. 
-- Submissions may also include the advantages/disadvantages over other approaches.
+- It must contain Languages used and where.
+- It should contain softwares and technologies. 
+- It should include the advantages and disadvantages over other approaches.
+- It may contain problems faced by current technology and how your project overcomes them. 
+- It must contain a reference bibliography to the resource if you have used or improved upon such resources. 
 - Take this as an Open-Ended endeavour with a general structure, but feel free to personalise it, and chime in project-specific paradigms.
 
 ## Commiting to GitHub
