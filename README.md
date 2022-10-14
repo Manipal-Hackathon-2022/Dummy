@@ -41,7 +41,9 @@ We’re almost at the end of the **M# Hackathon!** Here is everything you need t
 - It should include the advantages and disadvantages over other approaches.
 - It may contain problems faced by current technology and how your project overcomes them. 
 - It must contain a reference bibliography to the resource if you have used or improved upon such resources. 
+- It must include third party applications used in your project. 
 - Take this as an Open-Ended endeavour with a general structure, but feel free to personalise it, and chime in project-specific paradigms.
+
 
 ## Commiting to GitHub
 
