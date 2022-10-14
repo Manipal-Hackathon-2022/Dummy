@@ -43,7 +43,7 @@ We’re almost at the end of the **M# Hackathon!** Here is everything you need t
 - It must contain a reference bibliography to the resource if you have used or improved upon such resources. 
 - It must include third party applications used in your project. 
 - Take this as an Open-Ended endeavour with a general structure, but feel free to personalise it, and chime in project-specific paradigms.
-
+- It must be in .doc or .pdf format. 
 
 ## Commiting to GitHub
 
